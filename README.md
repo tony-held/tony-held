@@ -3,7 +3,7 @@
 My repositories are grouped into organizations for easy access.
 
 * [Solo Projects](https://github.com/TonySoloProjects): Stand-alone projects where I was the lead (or exclusive) author.
-* [Self Study](https://github.com/TonySelfStudy): Developed during self study.
+* [Self Study](https://github.com/TonySelfStudy): Developed during self study.  Contains some small useful projects in addition to lots of tutorials.
 * [Forks](https://github.com/TonyForks): Forks of other repositories.
 
 I hope you find something of interest!  
