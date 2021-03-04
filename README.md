@@ -6,7 +6,7 @@ My repositories are grouped into organizations for easy access.
 * [Self Study](https://github.com/TonySelfStudy): Developed during self study.
 * [Forks](https://github.com/TonyForks): Forks of other repositories.
 
-I hope you find something or interest!  
+I hope you find something of interest!  
 tony.held@gmail.com
 
 <!--
